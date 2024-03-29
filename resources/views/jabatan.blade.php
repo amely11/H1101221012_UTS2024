@@ -1,7 +1,7 @@
 @extends('home')
 @section('content')
     <div class="container-fluid py-4">
-        <h1 class="text-white mb-4">Form Jabatan</h1>
+        <h1 class="text-white mb-4">Master Jabatan</h1>
         <div class="row">
             <div class="col-12">
                 <div class="card mb-4">
